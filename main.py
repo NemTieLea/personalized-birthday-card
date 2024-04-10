@@ -13,4 +13,3 @@ imie_nadawcy = input("Podaj swoje imie: ")
 wiek = 2024 - int(data_urodzenia)
 
 print(szablon.format(imie_odbiorcy, wiek, spersonalizowana_wiadomosc, imie_nadawcy))
-
